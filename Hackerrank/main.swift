@@ -7,8 +7,6 @@
 
 import Foundation
 
-print("Hello, World!")
-
 
 //print(sockMerchant(n: 9, ar: [10, 20, 20, 10, 10, 30, 50, 10, 20]))
 
@@ -30,4 +28,19 @@ print("Hello, World!")
 //]))
 
 
-print(rotLeft(a: [33, 47, 70, 37, 8, 53, 13, 93, 71, 72, 51, 100, 60, 87, 97], d: 13))
+//print(rotLeft(a: [33, 47, 70, 37, 8, 53, 13, 93, 71, 72, 51, 100, 60, 87, 97], d: 13))
+
+//
+//minimumBribes(q: [2, 1, 5, 3, 4])
+//
+//minimumBribes(q: [2, 5, 1, 3, 4])
+
+//minimumBribes(q: [1, 2, 5, 3, 4, 7, 8, 6])
+
+//minimumBribes(q: [1, 2, 5, 3, 7, 8, 6, 4])
+
+
+
+let array = [1,2,3,4,5, 20]
+
+print(sum(array: array))

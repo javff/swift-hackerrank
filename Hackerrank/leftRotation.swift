@@ -17,8 +17,7 @@ import Foundation
 //    var mutableArray = a
 //
 //    for _ in 0..<trueRotate {
-//        let element = mutableArray.removeFirst()
-//        mutableArray.append(element)
+//        mutableArray.append(mutableArray.removeFirst())
 //    }
 //
 //    return mutableArray

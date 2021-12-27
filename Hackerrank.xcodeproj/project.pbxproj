@@ -14,6 +14,8 @@
 		E2710B7D26A49D850077D405 /* repeatedString.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2710B7C26A49D850077D405 /* repeatedString.swift */; };
 		E2710B8026A5895E0077D405 /* hourglass.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2710B7F26A5895E0077D405 /* hourglass.swift */; };
 		E2710B8326A58E350077D405 /* leftRotation.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2710B8226A58E350077D405 /* leftRotation.swift */; };
+		E2710B8626A5F77A0077D405 /* NewYearChaos.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2710B8526A5F77A0077D405 /* NewYearChaos.swift */; };
+		E292846226D004900036AA5C /* RecursiveExamples.swift in Sources */ = {isa = PBXBuildFile; fileRef = E292846126D004900036AA5C /* RecursiveExamples.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -37,6 +39,8 @@
 		E2710B7C26A49D850077D405 /* repeatedString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = repeatedString.swift; sourceTree = "<group>"; };
 		E2710B7F26A5895E0077D405 /* hourglass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = hourglass.swift; sourceTree = "<group>"; };
 		E2710B8226A58E350077D405 /* leftRotation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = leftRotation.swift; sourceTree = "<group>"; };
+		E2710B8526A5F77A0077D405 /* NewYearChaos.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewYearChaos.swift; sourceTree = "<group>"; };
+		E292846126D004900036AA5C /* RecursiveExamples.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecursiveExamples.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,6 +80,8 @@
 				E2710B7C26A49D850077D405 /* repeatedString.swift */,
 				E2710B7F26A5895E0077D405 /* hourglass.swift */,
 				E2710B8226A58E350077D405 /* leftRotation.swift */,
+				E2710B8526A5F77A0077D405 /* NewYearChaos.swift */,
+				E292846126D004900036AA5C /* RecursiveExamples.swift */,
 			);
 			path = Hackerrank;
 			sourceTree = "<group>";
@@ -141,8 +147,10 @@
 				E2632F5B26A25F2D007DFF20 /* CountingValles.swift in Sources */,
 				E2710B8326A58E350077D405 /* leftRotation.swift in Sources */,
 				E2632F5026A25D7B007DFF20 /* main.swift in Sources */,
+				E292846226D004900036AA5C /* RecursiveExamples.swift in Sources */,
 				E2710B7D26A49D850077D405 /* repeatedString.swift in Sources */,
 				E2632F5E26A26178007DFF20 /* jumpingCloud.swift in Sources */,
+				E2710B8626A5F77A0077D405 /* NewYearChaos.swift in Sources */,
 				E2632F5826A25D98007DFF20 /* SalesByMatch.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
