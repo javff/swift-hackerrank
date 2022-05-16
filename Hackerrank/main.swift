@@ -40,7 +40,18 @@ import Foundation
 //minimumBribes(q: [1, 2, 5, 3, 7, 8, 6, 4])
 
 
+//
+//let array = [1,2,3,4,5, 20]
+//
+//print(sum(array: array))
 
-let array = [1,2,3,4,5, 20]
 
-print(sum(array: array))
+// Amazon xample 1:
+
+//print(pairsLogins(logins: ["bag", "sfe", "cbh", "cbh", "red"]))
+
+
+// Amazon example 2:
+print(calculateFrecuency(s: "bbbbbbbbbaaacccccccc"))
+print(calculateFrecuency(s: "a"))
+print(calculateFrecuency(s: "abababababababababababababababa"))
